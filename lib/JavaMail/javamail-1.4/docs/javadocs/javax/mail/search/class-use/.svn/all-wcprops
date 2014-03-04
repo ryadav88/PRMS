@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use
+END
+ReceivedDateTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/ReceivedDateTerm.html
+END
+AddressTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/AddressTerm.html
+END
+IntegerComparisonTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/IntegerComparisonTerm.html
+END
+HeaderTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/HeaderTerm.html
+END
+FromStringTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/FromStringTerm.html
+END
+SearchException.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/SearchException.html
+END
+MessageNumberTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/MessageNumberTerm.html
+END
+BodyTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/BodyTerm.html
+END
+SubjectTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/SubjectTerm.html
+END
+NotTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/NotTerm.html
+END
+MessageIDTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/MessageIDTerm.html
+END
+AndTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/AndTerm.html
+END
+FromTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/FromTerm.html
+END
+SearchTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/SearchTerm.html
+END
+StringTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/StringTerm.html
+END
+SentDateTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/SentDateTerm.html
+END
+FlagTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/FlagTerm.html
+END
+RecipientStringTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/RecipientStringTerm.html
+END
+ComparisonTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/ComparisonTerm.html
+END
+SizeTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/SizeTerm.html
+END
+AddressStringTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/AddressStringTerm.html
+END
+DateTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/DateTerm.html
+END
+OrTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/OrTerm.html
+END
+RecipientTerm.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/search/class-use/RecipientTerm.html
+END

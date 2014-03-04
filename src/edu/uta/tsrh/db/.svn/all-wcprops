@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/edu/uta/tsrh/db
+END
+MySQLDBServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/edu/uta/tsrh/db/MySQLDBServices.java
+END
+DBQueryExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/edu/uta/tsrh/db/DBQueryExecuter.java
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/edu/uta/tsrh/db/DAO.java
+END
+DBServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/edu/uta/tsrh/db/DBServices.java
+END
+LoadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/edu/uta/tsrh/db/LoadDBConfig.java
+END

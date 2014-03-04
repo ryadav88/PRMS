@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail
+END
+SendFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/SendFailedException.html
+END
+UIDFolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/UIDFolder.html
+END
+Quota.Resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Quota.Resource.html
+END
+Session.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Session.html
+END
+BodyPart.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/BodyPart.html
+END
+FolderClosedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/FolderClosedException.html
+END
+Message.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Message.html
+END
+MessageRemovedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/MessageRemovedException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/package-tree.html
+END
+NoSuchProviderException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/NoSuchProviderException.html
+END
+MessageContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/MessageContext.html
+END
+Provider.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Provider.html
+END
+MultipartDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/MultipartDataSource.html
+END
+MessagingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/MessagingException.html
+END
+AuthenticationFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/AuthenticationFailedException.html
+END
+URLName.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/URLName.html
+END
+IllegalWriteException.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/IllegalWriteException.html
+END
+Flags.Flag.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Flags.Flag.html
+END
+StoreClosedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/StoreClosedException.html
+END
+FetchProfile.Item.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/FetchProfile.Item.html
+END
+FolderNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/FolderNotFoundException.html
+END
+FetchProfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/FetchProfile.html
+END
+Multipart.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Multipart.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/package-frame.html
+END
+Address.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Address.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/package-use.html
+END
+QuotaAwareStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/QuotaAwareStore.html
+END
+MethodNotSupportedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/MethodNotSupportedException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/package-summary.html
+END
+Header.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Header.html
+END
+ReadOnlyFolderException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/ReadOnlyFolderException.html
+END
+Quota.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Quota.html
+END
+Flags.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Flags.html
+END
+Store.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Store.html
+END
+Transport.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Transport.html
+END
+Service.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Service.html
+END
+PasswordAuthentication.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/PasswordAuthentication.html
+END
+MessageAware.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/MessageAware.html
+END
+UIDFolder.FetchProfileItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/UIDFolder.FetchProfileItem.html
+END
+Part.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Part.html
+END
+Message.RecipientType.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Message.RecipientType.html
+END
+Provider.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Provider.Type.html
+END
+Authenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Authenticator.html
+END
+Folder.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/Folder.html
+END

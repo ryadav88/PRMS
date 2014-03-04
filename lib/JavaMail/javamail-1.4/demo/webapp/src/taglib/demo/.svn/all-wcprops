@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo
+END
+ListMessagesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/ListMessagesTag.java
+END
+MessageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/MessageInfo.java
+END
+MessageTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/MessageTag.java
+END
+ListAttachmentsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/ListAttachmentsTag.java
+END
+AttachmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/AttachmentInfo.java
+END
+ListMessagesTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/ListMessagesTEI.java
+END
+SendTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/SendTag.java
+END
+MessageTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/MessageTEI.java
+END
+ListAttachmentsTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/taglib/demo/ListAttachmentsTEI.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use
+END
+SMTPAddressFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPAddressFailedException.html
+END
+SMTPAddressSucceededException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPAddressSucceededException.html
+END
+SMTPTransport.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPTransport.html
+END
+SMTPSendFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPSendFailedException.html
+END
+SMTPSSLTransport.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPSSLTransport.html
+END
+SMTPMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPMessage.html
+END
+SMTPSenderFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/com/sun/mail/smtp/class-use/SMTPSenderFailedException.html
+END

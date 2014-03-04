@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/Employee.java
+END
+FileDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/FileDetail.java
+END
+PendingDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/PendingDate.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/SearchResult.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/Transaction.java
+END
+PendingFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/PendingFiles.java
+END
+QueryCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/model/QueryCondition.java
+END

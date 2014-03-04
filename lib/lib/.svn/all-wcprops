@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/lib
+END
+dsn.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/lib/dsn.jar
+END
+imap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/lib/imap.jar
+END
+mailapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/lib/mailapi.jar
+END
+pop3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/lib/pop3.jar
+END
+smtp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/lib/smtp.jar
+END

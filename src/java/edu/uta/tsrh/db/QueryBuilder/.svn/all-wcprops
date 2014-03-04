@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder
+END
+SQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder/SQLBuilder.java
+END
+SelectSQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder/SelectSQLBuilder.java
+END
+WhereConditionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder/WhereConditionBuilder.java
+END
+DeleteSQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder/DeleteSQLBuilder.java
+END
+UpdateSQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder/UpdateSQLBuilder.java
+END
+InsertSQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/edu/uta/tsrh/db/QueryBuilder/InsertSQLBuilder.java
+END

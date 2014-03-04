@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support
+END
+hibernate-commons-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/hibernate-commons-annotations.jar
+END
+hibernate-entitymanager.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/hibernate-entitymanager.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/javassist.jar
+END
+asm-attrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/asm-attrs.jar
+END
+jdbc2_0-stdext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/jdbc2_0-stdext.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/jta.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/dom4j-1.6.1.jar
+END
+ehcache-1.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/ehcache-1.2.3.jar
+END
+cglib-2.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/cglib-2.1.3.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/asm.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/hibernate3.jar
+END
+commons-collections-2.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/commons-collections-2.1.1.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/antlr-2.7.6.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/hibernate-annotations.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/commons-logging-1.1.jar
+END
+hibernate-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/hibernate-support/hibernate-tools.jar
+END

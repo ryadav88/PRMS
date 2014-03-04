@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot
+END
+compose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/compose.jsp
+END
+errorpage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/errorpage.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/login.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/logout.jsp
+END
+send.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/send.jsp
+END
+folders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/folders.jsp
+END
+errordetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/errordetails.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/index.html
+END
+messagecontent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/messagecontent.jsp
+END
+messageheaders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/demo/webapp/src/docroot/messageheaders.jsp
+END

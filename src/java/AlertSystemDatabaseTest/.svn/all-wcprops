@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest
+END
+AlertSystemDatabaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest/AlertSystemDatabaseTest.java
+END
+TestAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest/TestAlert.java
+END
+TestAlertArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest/TestAlertArchive.java
+END
+TestAlertHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest/TestAlertHistory.java
+END
+TestUserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest/TestUserInfo.java
+END
+TestAlertHistoryArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/AlertSystemDatabaseTest/TestAlertHistoryArchive.java
+END

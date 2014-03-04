@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event
+END
+FolderAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/FolderAdapter.html
+END
+FolderEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/FolderEvent.html
+END
+FolderListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/FolderListener.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/package-frame.html
+END
+MailEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/MailEvent.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/package-tree.html
+END
+TransportAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/TransportAdapter.html
+END
+TransportEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/TransportEvent.html
+END
+StoreEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/StoreEvent.html
+END
+MessageCountAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/MessageCountAdapter.html
+END
+MessageCountEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/MessageCountEvent.html
+END
+MessageChangedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/MessageChangedEvent.html
+END
+ConnectionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/ConnectionAdapter.html
+END
+ConnectionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/ConnectionEvent.html
+END
+StoreListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/StoreListener.html
+END
+TransportListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/TransportListener.html
+END
+MessageCountListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/MessageCountListener.html
+END
+MessageChangedListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/MessageChangedListener.html
+END
+ConnectionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/TSRHC_SDP/PRMS/svn/!svn/ver/2/PRMS/lib/JavaMail/javamail-1.4/docs/javadocs/javax/mail/event/ConnectionListener.html
+END

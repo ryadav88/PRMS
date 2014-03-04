@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/TSRHC_SDP/PRMS/svn/!svn/ver/13/PRMS/src/java
+END
+hibernate.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/hibernate.reveng.xml
+END
+AlertSystemDatabaseSchema_old.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/TSRHC_SDP/PRMS/svn/!svn/ver/11/PRMS/src/java/AlertSystemDatabaseSchema_old.sql
+END
+alertsystem_Database_Schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/TSRHC_SDP/PRMS/svn/!svn/ver/10/PRMS/src/java/alertsystem_Database_Schema.sql
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/TSRHC_SDP/PRMS/svn/!svn/ver/13/PRMS/src/java/hibernate.cfg.xml
+END

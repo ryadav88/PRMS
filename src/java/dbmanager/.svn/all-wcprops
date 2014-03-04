@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager
+END
+DBManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/DBManager.java
+END
+SQLAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/SQLAccess.java
+END
+getTestConsultation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/getTestConsultation.java
+END
+UpdateTestConsultation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/UpdateTestConsultation.java
+END
+DBAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/DBAccess.java
+END
+DBType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/DBType.java
+END
+getTestRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/getTestRequest.java
+END
+UpdateTestRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/UpdateTestRequest.java
+END
+InsertTestRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/InsertTestRequest.java
+END
+SQLCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/SQLCommand.java
+END
+getTestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TSRHC_SDP/PRMS/svn/!svn/ver/6/PRMS/src/java/dbmanager/getTestResult.java
+END

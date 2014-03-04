@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase
+END
+DBGetUserInfoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetUserInfoCommand.java
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/HibernateUtil.java
+END
+DBInsertAlertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBInsertAlertCommand.java
+END
+DBUpdateUserInfoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBUpdateUserInfoCommand.java
+END
+Alert.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alert.java
+END
+DBDeleteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBDeleteCommand.java
+END
+DBGetAlertHistoryForTheAlertIdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertHistoryForTheAlertIdCommand.java
+END
+DBGetAlertsForTheAlertIdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertsForTheAlertIdCommand.java
+END
+DBGetAlertHistoryArchiveForTheAlertIdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertHistoryArchiveForTheAlertIdCommand.java
+END
+DBGetAlertArchivesForTheAlertIdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertArchivesForTheAlertIdCommand.java
+END
+Alerthistoryarchive.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alerthistoryarchive.hbm.xml
+END
+DBUpdateAlertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBUpdateAlertCommand.java
+END
+DBDeleteAlertHistoryCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBDeleteAlertHistoryCommand.java
+END
+DBDeleteUserInfoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBDeleteUserInfoCommand.java
+END
+DBGetAlertsForTheUserIdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertsForTheUserIdCommand.java
+END
+DBInsertAlertHistoryArchiveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBInsertAlertHistoryArchiveCommand.java
+END
+DBGetAlertArchivesForTheUserIdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertArchivesForTheUserIdCommand.java
+END
+DBGetAlertsBetweenTheTimeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetAlertsBetweenTheTimeCommand.java
+END
+Userinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Userinfo.java
+END
+DBMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBMgr.java
+END
+Alerthistoryarchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alerthistoryarchive.java
+END
+DBMgrSingletonBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBMgrSingletonBridge.java
+END
+Alertarchive.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alertarchive.hbm.xml
+END
+DBDeleteAlertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBDeleteAlertCommand.java
+END
+AlertSystemDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/AlertSystemDatabase.java
+END
+DBInsertAlertArchiveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBInsertAlertArchiveCommand.java
+END
+DBInsertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBInsertCommand.java
+END
+Alertarchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alertarchive.java
+END
+MySqlAccessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/MySqlAccessImpl.java
+END
+Alerthistory.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alerthistory.hbm.xml
+END
+Userinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Userinfo.hbm.xml
+END
+DBCommandInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBCommandInvoker.java
+END
+DBInsertAlertHistoryCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBInsertAlertHistoryCommand.java
+END
+DBInsertUserInfoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBInsertUserInfoCommand.java
+END
+DBGetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBGetCommand.java
+END
+DBCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBCommand.java
+END
+DBUpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBUpdateCommand.java
+END
+Alerthistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alerthistory.java
+END
+DBAccessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBAccessImpl.java
+END
+Alert.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/Alert.hbm.xml
+END
+DBMgrProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/TSRHC_SDP/PRMS/svn/!svn/ver/5/PRMS/src/java/alertsystemdatabase/DBMgrProxy.java
+END
